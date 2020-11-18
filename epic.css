@@ -1,0 +1,29 @@
+#banner {
+display: block;
+margin: 0 auto;
+  background-color: #33BFD1;
+
+}
+
+.titel{
+  display: flex;
+  justify-content: center;
+}
+.topnav {
+  display: flex;
+  justify-content: center;
+
+
+}
+
+
+body {
+  background-color: powderblue;
+}
+
+.center {
+  object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
+  width: 33%;
+}
